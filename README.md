@@ -21,7 +21,7 @@ Cada release contém:
 
 ## 🔗 Links úteis
 
-- [Releases](https://github.com/SEU-USUARIO/SEU-REPO/releases) — todas as versões publicadas
+- [Releases](https://github.com/GabrielBezerraDev/Release-Apolo/releases) — todas as versões publicadas
 
 ---
 
